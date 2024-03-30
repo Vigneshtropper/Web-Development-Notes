@@ -1,3 +1,10 @@
+//****************** Media Query for responsive ****************************//
+@media(min-width:600px){
+   // sara css code 
+}
+
+
+
 // *******************CSS SELECtor********************************//
 
 1).Child Serlector (parent > Child)
