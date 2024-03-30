@@ -1,1 +1,9 @@
+// *******************CSS SELECtor********************************//
 
+1).Child Serlector (parent > Child)
+  child selector work on IMMIDEATE CHILD OF ELEMENT
+2).Descendant Selector( parent Child )
+  child ho bhale hi grand child ho bss uske andar ho hona chahiye
+3) * all selector   
+4) pseudo selector (:) 
+  anchor tag ko color karne k liye us ekarte h / a:active bg-red 
